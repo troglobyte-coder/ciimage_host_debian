@@ -36,9 +36,14 @@ they use fewer resources than virtual machines.
 
 ## dependencies
 
-* `dep:version` Description
-* `dep:version` Description
-* `dep:version` Description
+* `gcc:10` GNU GCC Compiler
+* `g++:10` GUN GCC Compiler
+* `python:3.10` Python 3
+* `meson:0.62.0` Meson build system
+* `ninja:1.10.2` Ninja build system
+* `scan-build:2.0.19` Scan-build tool
+* `flake8:4.0.1` Python scanner
+* `cppcheck:2.8` CppCheck scanner
 
 ## contact
 
